@@ -1,0 +1,10 @@
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'tom', 20);
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'jerry', 32);
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'mike', 36);
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'chandler', 37);
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'joye', 32);
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'phoebe', 22);
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'mocina', 33);
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'ross', 38);
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'rachale', 29);
+insert into SYNC_USER (ID, USER_NAME, USER_AGE) values (USER_SEQ.nextval, 'jenny', 21);

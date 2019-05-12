@@ -1,0 +1,7 @@
+create table SYNC_USER
+(
+    ID NUMBER,
+    USER_NAME VARCHAR2(32),
+    USER_AGE NUMBER
+)
+
